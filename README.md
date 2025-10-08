@@ -1,16 +1,23 @@
-## Hi there 👋
+# 🧙‍♂️ Miguel Hecht
 
-<!--
-**vitor-gama-amaral/vitor-gama-amaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Analisador e desenvolvedor de sistemas`**
 
-Here are some ideas to get you started:
+# 👋 E aí, tudo bem? Seja bem-vindo ao meu Hub! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou um 👨‍💻 estudante da área de **Análise e Desenvolvimento de Sistemas** e curto demais descobrir maneiras inovadoras ✨ e eficientes ⚡ de usar a tecnologia para solucionar desafios.
+
+Neste espaço, você vai encontrar alguns projetos 📂 que criei durante a minha formação e também ideias 💡 que tirei do papel ao longo da minha trajetória.
+
+Penso que aprender a programar vai muito além de simplesmente codificar; envolve testar 🧪, falhar ❌, aprender com os erros 📚 e sempre buscar aprimoramento 🔄.
+Este perfil demonstra essa caminhada, onde compartilho um pouco do que tenho aprendido. 🌱  
+
+---
+
+## 🔗 Onde você pode me achar
+- 📄 [Veja meu Currículo](https://drive.google.com/file/d/1rhZ_YiHQGn2SanehoidLjbAM0nCbPCBe/view?usp=sharing)
+- 📧 Email: mhlg07@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/miguel-hecht-192495388/)
+
+---
+
+✨ Sinta-se à vontade para navegar 🔍, dar a sua opinião 💬 ou trocar uma ideia comigo! 😃
