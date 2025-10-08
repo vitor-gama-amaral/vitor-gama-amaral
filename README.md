@@ -1,23 +1,12 @@
-# 🧙‍♂️ Miguel Hecht
+# 👨‍🦲 Vitor Gama
 
-**`Analisador e desenvolvedor de sistemas`**
+**'Estudante ADS'**
 
-# 👋 E aí, tudo bem? Seja bem-vindo ao meu Hub! 🚀
-
-Sou um 👨‍💻 estudante da área de **Análise e Desenvolvimento de Sistemas** e curto demais descobrir maneiras inovadoras ✨ e eficientes ⚡ de usar a tecnologia para solucionar desafios.
-
-Neste espaço, você vai encontrar alguns projetos 📂 que criei durante a minha formação e também ideias 💡 que tirei do papel ao longo da minha trajetória.
-
-Penso que aprender a programar vai muito além de simplesmente codificar; envolve testar 🧪, falhar ❌, aprender com os erros 📚 e sempre buscar aprimoramento 🔄.
-Este perfil demonstra essa caminhada, onde compartilho um pouco do que tenho aprendido. 🌱  
-
----
+# Olá, Tudo bem? Seja bem-vindo ao meu Github.🤝
 
 ## 🔗 Onde você pode me achar
-- 📄 [Veja meu Currículo](https://drive.google.com/file/d/1rhZ_YiHQGn2SanehoidLjbAM0nCbPCBe/view?usp=sharing)
-- 📧 Email: mhlg07@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/miguel-hecht-192495388/)
+- 📄 [Veja meu Currículo](https://docs.google.com/document/d/1cBlgKLRhbxZ8SDKNwWhcAi5oFonhNDLTAu6QvMAInnQ/edit?usp=sharing)
+- 📧 Email: vitorgamaa@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/vitor-gama-493667381/)
 
----
-
-✨ Sinta-se à vontade para navegar 🔍, dar a sua opinião 💬 ou trocar uma ideia comigo! 😃
+Me chamo Vitor Gama Amaral, tenho 36 anos e sou natural de Brasília-DF. Sou formado em Administração de empresas pelo UniCEUB e atualmente estou cursando Análise e Desenvolvimento de Sistemas no UniCEUB. Estou buscando a área de tecnologia, pois é algo que me fascina. Aqui você encontrará meus projetos e minhas ideias durante meu curso e depois de formado.
